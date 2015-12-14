@@ -24,3 +24,5 @@ a = `cat flag/flag.pub | grep -v '^-'`
 a.gsub!(/\s/, "")
 
 puts "Public key is: " + a
+
+`rm -rf flag/`
