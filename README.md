@@ -2,7 +2,7 @@
 
  * Binaries (Windows / Linux) 
  * [Coding Challenges](https://github.com/TraiOi/Ringzer0_Solutions/tree/master/Coding%20challenges#coding-challenges)
- * Cryptography 
+ * [Cryptography](https://github.com/TraiOi/Ringzer0_Solutions/tree/master/Cryptography#cryptography)
  * Forensics 
  * Jail Escaping
  * [JavaScript](https://github.com/TraiOi/Ringzer0_Solutions/tree/master/Javascript#javascript)
