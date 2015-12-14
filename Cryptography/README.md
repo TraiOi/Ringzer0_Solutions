@@ -4,7 +4,7 @@
  * [x] File recovery
  * [ ] Fashion Victim
  * [ ] Martian message part 2
- * [ ] Public key recovery
+ * [x] Public key recovery
  * [ ] Can you understand this sentence?
  * [ ] I Lost my password
  * [ ] Martian message part 3

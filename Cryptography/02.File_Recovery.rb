@@ -4,4 +4,4 @@ puts `openssl rsautl -decrypt -in flag/flag.enc -out flag/flag.dec -inkey flag/p
 
 puts "Flag is: " + `cat flag/flag.dec`
 
-`rm -r flag/`
+`rm -rf flag/`
