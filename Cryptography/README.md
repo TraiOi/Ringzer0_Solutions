@@ -1,7 +1,7 @@
 #### Cryptography
 
- * [ ] Some martian message
- * [ ] File recovery
+ * [x] Some martian message
+ * [x] File recovery
  * [ ] Fashion Victim
  * [ ] Martian message part 2
  * [ ] Public key recovery
